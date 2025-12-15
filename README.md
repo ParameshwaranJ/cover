@@ -58,7 +58,7 @@ cover.html
            <div class="image">
            
            <div class="aboutme">
-           <h3>Mr.J.Parameshwaran</h3>
+           <h3>Mr.J.Parameshwaran (25005306)</h3>
            </div>
            <div class="aboutme1">
             <p>Mr.J.Parameshwaran is a college going student and he has very much interest in Cybersecurity and he wrote many books related to Cybersecurity.</p>
@@ -184,7 +184,7 @@ h1{
 .aboutme1{
     margin-left: 100px;
     width: 300px;
-
+    margin-top:-14px;
     display: inline-block;
     word-break: normal;
     font-weight: lighter;
@@ -222,7 +222,7 @@ h1{
 
 
 ## OUTPUT:
-![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (35).png>)
 
 
 ## RESULT:

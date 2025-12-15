@@ -100,7 +100,7 @@ h1{
 .aboutme1{
     margin-left: 100px;
     width: 300px;
-
+    margin-top: -14px;
     display: inline-block;
     word-break: normal;
     font-weight: lighter;
